@@ -1,4 +1,4 @@
-# 快速入门Web阅读器开发
+# web阅读器开发
 
 >author: Vivipure
 
